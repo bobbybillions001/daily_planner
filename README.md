@@ -15,21 +15,22 @@ A simple and intuitive **Daily Planner** mobile app built with Flutter and Hive.
 
 ---
 
-## Screenshots
-**Intro Screen:**  
-![Intro Screen](lib/screenshots/intro1.png)
+##  Screenshots
 
-**Intro Screen:**  
-![Intro Screen](lib/screenshots/intro2.png)
+### Intro Screens
+| Intro Screen 1 | Intro Screen 2 |
+|---------------|---------------|
+| ![](lib/screenshots/intro1.png) | ![](lib/screenshots/intro2.png) |
 
-**Task List Screen:**  
-![Tasks Screen](lib/screenshots/task.png)
+### Main App Screens
+| Task List | Add Task |
+|-----------|----------|
+| ![](lib/screenshots/task.png) | ![](lib/screenshots/add.png) |
 
-**Add Task Dialog:**  
-![Add Task Dialog](lib/screenshots/add.png)
+| Search Tasks |
+|--------------|
+| ![](lib/screenshots/search.png) |
 
-**Search Tasks:**  
-![Search Tasks](lib/screenshots/search.png)
 
 ---
 
